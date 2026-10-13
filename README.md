@@ -36,6 +36,7 @@ A collection of my resolved Leetcode problems.
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/FabiMur/leetcode-collection/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
+| [0412-fizz-buzz](https://github.com/FabiMur/leetcode-collection/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -50,6 +51,7 @@ A collection of my resolved Leetcode problems.
 | [0009-palindrome-number](https://github.com/FabiMur/leetcode-collection/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/FabiMur/leetcode-collection/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/FabiMur/leetcode-collection/tree/master/0412-fizz-buzz) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -240,6 +242,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/FabiMur/leetcode-collection/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/FabiMur/leetcode-collection/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
