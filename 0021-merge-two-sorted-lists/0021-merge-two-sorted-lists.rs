@@ -16,18 +16,19 @@
 // }
 impl Solution {
     pub fn merge_two_lists(list1: Option<Box<ListNode>>, list2: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
-        match(list1, list2){
-            (None, r) => r,
+        match (list1, list2) {
             (l, None) => l,
-            (Some(mut a), Some(mut b)) => {
-                if a.val <= b.val {
-                    a.next = Self::merge_two_lists(a.next.take(), Some(b));
-                    Some(a)
+            (None, r) => r,
+            (Some(mut l), Some( mut r)) => {
+                if l.val <= r.val {
+                    l.next = Self::merge_two_lists(l.next.take(), Some(r));
+                    Some(l)
                 } else {
-                    b.next = Self::merge_two_lists(Some(a), b.next.take());
-                    Some(b)
+                    r.next = Self::merge_two_lists(r.next.take(), Some(l));
+                    Some(r)
                 }
-            }
+            } 
         }
+        
     }
 }
