@@ -110,10 +110,12 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/FabiMur/leetcode-collection/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/FabiMur/leetcode-collection/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/FabiMur/leetcode-collection/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
