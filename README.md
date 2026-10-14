@@ -95,6 +95,7 @@ A collection of my resolved Leetcode problems.
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1711-count-good-meals](https://github.com/FabiMur/leetcode-collection/tree/master/1711-count-good-meals) |
 | [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
+| [1929-concatenation-of-array](https://github.com/FabiMur/leetcode-collection/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/FabiMur/leetcode-collection/tree/master/2043-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -249,6 +250,7 @@ A collection of my resolved Leetcode problems.
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/FabiMur/leetcode-collection/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/FabiMur/leetcode-collection/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/FabiMur/leetcode-collection/tree/master/2043-simple-bank-system) |
 | [2352-equal-row-and-column-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/2352-equal-row-and-column-pairs) |
 ## Bit Manipulation
