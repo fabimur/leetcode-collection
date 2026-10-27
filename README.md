@@ -67,6 +67,7 @@ A collection of my resolved Leetcode problems.
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FabiMur/leetcode-collection/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FabiMur/leetcode-collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -122,6 +123,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
@@ -283,4 +285,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/FabiMur/leetcode-collection/tree/master/0509-fibonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
