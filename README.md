@@ -74,6 +74,7 @@ A collection of my resolved Leetcode problems.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/FabiMur/leetcode-collection/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
@@ -244,6 +245,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0048-rotate-image](https://github.com/FabiMur/leetcode-collection/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 | [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
@@ -289,4 +291,16 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
