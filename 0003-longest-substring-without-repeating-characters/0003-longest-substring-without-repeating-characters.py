@@ -10,5 +10,5 @@ class Solution:
                 left = seen[char] + 1
             seen[char] = right
             sol = max(sol, right - left + 1)
-
+        
         return sol
