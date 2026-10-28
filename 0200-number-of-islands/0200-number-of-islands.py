@@ -1,6 +1,6 @@
 class Solution:
     def exploreIsland(self, grid: List[List[str]], x: int, y: int) -> None:
-        if  x == -1 or y == -1 or y == len(grid) or x == len(grid[0]) or grid[y][x] == "0":
+        if x == -1 or y == -1 or y == len(grid) or x == len(grid[0]) or grid[y][x] == "0":
             return
         
         grid[y][x] = "0"
