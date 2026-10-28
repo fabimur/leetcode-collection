@@ -8,6 +8,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/FabiMur/leetcode-collection/tree/master/0125-valid-palindrome) |
@@ -63,6 +64,7 @@ A collection of my resolved Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/FabiMur/leetcode-collection/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/FabiMur/leetcode-collection/tree/master/0053-maximum-subarray) |
@@ -178,6 +180,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/FabiMur/leetcode-collection/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
@@ -186,6 +189,7 @@ A collection of my resolved Leetcode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/FabiMur/leetcode-collection/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FabiMur/leetcode-collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
@@ -323,4 +327,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
