@@ -85,6 +85,7 @@ A collection of my resolved Leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/FabiMur/leetcode-collection/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/FabiMur/leetcode-collection/tree/master/0724-find-pivot-index) |
@@ -152,6 +153,7 @@ A collection of my resolved Leetcode problems.
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
 | [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
@@ -202,6 +204,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/FabiMur/leetcode-collection/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/FabiMur/leetcode-collection/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/FabiMur/leetcode-collection/tree/master/1480-running-sum-of-1d-array) |
