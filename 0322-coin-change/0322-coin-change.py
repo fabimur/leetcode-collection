@@ -1,7 +1,14 @@
 class Solution:
     def coinChange(self, coins: list[int], amount: int) -> int:
+        coins = set(coins)
         dp = [0] + [amount + 1] * amount
-        for coin in coins:
-            for i in range(coin, amount + 1):
-                dp[i] = min(dp[i], dp[i - coin] + 1)
-        return -1 if dp[amount] == amount + 1 else dp[amount]
+
+        for i in range(1, amount + 1):
+            if i in coins:
+                dp[i] = 1
+            else:
+                for c in coins:
+                    if c <= i:
+                        dp[i] = min(dp[i], dp[i - c] + 1)
+
+        return dp[amount] if dp[amount] != amount + 1 else -1
