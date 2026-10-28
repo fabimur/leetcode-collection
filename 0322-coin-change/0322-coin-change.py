@@ -2,8 +2,7 @@ class Solution:
     def aux(self, coins: list[int], amount: int, memo: dict) -> int:
         if amount < 0:
             return float('inf')
-        if amount == 0:
-            return 0
+
         if amount in memo:
             return memo[amount]
 
@@ -15,5 +14,8 @@ class Solution:
         return best
 
     def coinChange(self, coins: list[int], amount: int) -> int:
-        res = self.aux(coins, amount, {})
+        memo = {}
+        memo[0] = 0
+        res = self.aux(coins, amount, memo)
         return res if res != float('inf') else -1
+        
