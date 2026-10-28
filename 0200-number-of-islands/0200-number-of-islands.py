@@ -1,18 +1,14 @@
 class Solution:
     def exploreIsland(self, grid: List[List[str]], x: int, y: int) -> None:
-        if grid[y][x] == "0":
+        if  x == -1 or y == -1 or y == len(grid) or x == len(grid[0]) or grid[y][x] == "0":
             return
         
         grid[y][x] = "0"
 
-        if x - 1 >= 0:
-            self.exploreIsland(grid, x-1, y)
-        if x + 1 < len(grid[0]):
-            self.exploreIsland(grid, x+1, y)
-        if y - 1 >= 0:
-            self.exploreIsland(grid, x, y-1)
-        if y + 1 < len(grid):
-            self.exploreIsland(grid, x, y+1)
+        self.exploreIsland(grid, x-1, y)
+        self.exploreIsland(grid, x+1, y)
+        self.exploreIsland(grid, x, y-1)
+        self.exploreIsland(grid, x, y+1)
 
 
     def numIslands(self, grid: List[List[str]]) -> int:
