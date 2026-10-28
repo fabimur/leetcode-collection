@@ -78,6 +78,7 @@ A collection of my resolved Leetcode problems.
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/FabiMur/leetcode-collection/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
@@ -187,6 +188,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0053-maximum-subarray](https://github.com/FabiMur/leetcode-collection/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FabiMur/leetcode-collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/FabiMur/leetcode-collection/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/FabiMur/leetcode-collection/tree/master/0509-fibonacci-number) |
@@ -299,8 +301,17 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
