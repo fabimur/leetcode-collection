@@ -79,6 +79,7 @@ A collection of my resolved Leetcode problems.
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/FabiMur/leetcode-collection/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/FabiMur/leetcode-collection/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
@@ -207,6 +208,7 @@ A collection of my resolved Leetcode problems.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/FabiMur/leetcode-collection/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -231,6 +233,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FabiMur/leetcode-collection/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/FabiMur/leetcode-collection/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/FabiMur/leetcode-collection/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
@@ -244,6 +247,7 @@ A collection of my resolved Leetcode problems.
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/FabiMur/leetcode-collection/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/FabiMur/leetcode-collection/tree/master/0933-number-of-recent-calls) |
 ## Matrix
@@ -331,4 +335,12 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/FabiMur/leetcode-collection/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/FabiMur/leetcode-collection/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
