@@ -13,9 +13,6 @@ class Solution:
             self.exploreIsland(grid, x, y-1)
         if y + 1 < len(grid):
             self.exploreIsland(grid, x, y+1)
-        
-        return
-
 
 
     def numIslands(self, grid: List[List[str]]) -> int:
