@@ -3,7 +3,6 @@ class Solution:
         count = {}
         for n in nums:
             count[n] = count.get(n, 0) + 1
-        
-        sortedNums = sorted(count.keys(), key = lambda x: count[x], reverse = True)
+        sortedNums = sorted(count.keys(), key = lambda x: -count[x])
 
         return sortedNums[:k]
