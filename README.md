@@ -6,6 +6,7 @@ A collection of my resolved Leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/FabiMur/leetcode-collection/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
@@ -62,6 +63,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/FabiMur/leetcode-collection/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0033-search-in-rotated-sorted-array) |
@@ -131,6 +133,7 @@ A collection of my resolved Leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/FabiMur/leetcode-collection/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
