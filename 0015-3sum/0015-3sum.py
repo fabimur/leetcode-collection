@@ -11,9 +11,10 @@ class Solution:
             right = len(nums) - 1
 
             while(left < right):
-                if n + nums[left] + nums[right] < 0:
+                total = n + nums[left] + nums[right]
+                if total < 0:
                     left += 1
-                elif n + nums[left] + nums[right] > 0:
+                elif total > 0:
                     right -= 1
                 else:
                     result.append([nums[i], nums[left], nums[right]])
