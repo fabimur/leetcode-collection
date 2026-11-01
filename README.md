@@ -73,6 +73,7 @@ A collection of my resolved Leetcode problems.
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FabiMur/leetcode-collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/FabiMur/leetcode-collection/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@ A collection of my resolved Leetcode problems.
 | [0001-two-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FabiMur/leetcode-collection/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/FabiMur/leetcode-collection/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
@@ -319,6 +321,7 @@ A collection of my resolved Leetcode problems.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/FabiMur/leetcode-collection/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 ## Knapsack Problem
 |  |
