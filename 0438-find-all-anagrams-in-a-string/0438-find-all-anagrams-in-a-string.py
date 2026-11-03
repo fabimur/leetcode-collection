@@ -6,8 +6,7 @@ class Solution:
         left = 0
 
         for right in range(len(s)):
-            c = s[right]
-            window[c] += 1
+            window[s[right]] += 1
 
             if right - left + 1 == len(p):
                 if window == target:
