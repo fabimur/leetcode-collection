@@ -100,6 +100,7 @@ A collection of my resolved Leetcode problems.
 | [0735-asteroid-collision](https://github.com/FabiMur/leetcode-collection/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/FabiMur/leetcode-collection/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
+| [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
@@ -166,6 +167,7 @@ A collection of my resolved Leetcode problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
 | [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
@@ -253,6 +255,7 @@ A collection of my resolved Leetcode problems.
 | [0438-find-all-anagrams-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/FabiMur/leetcode-collection/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
