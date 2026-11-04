@@ -7,7 +7,7 @@ class Solution:
         for right in range(len(nums)):
             window += nums[right]
 
-            while right - left + 1 > k:
+            if right - left + 1 > k:
                 window -= nums[left]
                 left += 1
 
