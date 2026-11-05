@@ -103,6 +103,7 @@ A collection of my resolved Leetcode problems.
 | [0860-lemonade-change](https://github.com/FabiMur/leetcode-collection/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
@@ -171,6 +172,7 @@ A collection of my resolved Leetcode problems.
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
 | [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
@@ -226,6 +228,7 @@ A collection of my resolved Leetcode problems.
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/FabiMur/leetcode-collection/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/FabiMur/leetcode-collection/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/FabiMur/leetcode-collection/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FabiMur/leetcode-collection/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -265,6 +268,7 @@ A collection of my resolved Leetcode problems.
 | [0643-maximum-average-subarray-i](https://github.com/FabiMur/leetcode-collection/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/FabiMur/leetcode-collection/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FabiMur/leetcode-collection/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
