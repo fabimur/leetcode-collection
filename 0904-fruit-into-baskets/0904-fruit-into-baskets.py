@@ -1,9 +1,9 @@
 class Solution:
     def totalFruit(self, fruits: list[int]) -> int:
         baskets = Counter()
-        left = 0
         result = 0
-
+        
+        left = 0
         for right in range(len(fruits)):
             baskets[fruits[right]] += 1
 
@@ -12,11 +12,11 @@ class Solution:
                 if baskets[fruits[left]] == 0:
                     del baskets[fruits[left]]
                 left += 1
+            
+            result = max(result, baskets.total())
 
-            result = max(result, right - left + 1)
+
 
         return result
-            
-
-
+        
         
