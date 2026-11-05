@@ -62,6 +62,7 @@ A collection of my resolved Leetcode problems.
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/FabiMur/leetcode-collection/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1248-count-number-of-nice-subarrays](https://github.com/FabiMur/leetcode-collection/tree/master/1248-count-number-of-nice-subarrays) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of my resolved Leetcode problems.
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/FabiMur/leetcode-collection/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/FabiMur/leetcode-collection/tree/master/1480-running-sum-of-1d-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -175,6 +177,7 @@ A collection of my resolved Leetcode problems.
 | [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
+| [1248-count-number-of-nice-subarrays](https://github.com/FabiMur/leetcode-collection/tree/master/1248-count-number-of-nice-subarrays) |
 | [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FabiMur/leetcode-collection/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -230,6 +233,7 @@ A collection of my resolved Leetcode problems.
 | [0724-find-pivot-index](https://github.com/FabiMur/leetcode-collection/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/FabiMur/leetcode-collection/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/FabiMur/leetcode-collection/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FabiMur/leetcode-collection/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
@@ -270,6 +274,7 @@ A collection of my resolved Leetcode problems.
 | [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/FabiMur/leetcode-collection/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FabiMur/leetcode-collection/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
