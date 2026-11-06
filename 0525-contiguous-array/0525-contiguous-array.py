@@ -1,17 +1,14 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        seen = {}
-        seen[0] = -1
-        count = 0
+        seen = {0: 0}      # prefijo -> primer left posible
+        prefix = 0
         res = 0
 
         for right, value in enumerate(nums):
-            count += 1 if value == 1 else -1
-            if count in seen:
-                res = max(res, right - seen[count])
+            prefix += 1 if value == 1 else -1
+            if prefix in seen:
+                res = max(res, right - seen[prefix] + 1)
             else:
-                seen[count] = right
+                seen[prefix] = right + 1
         
         return res
-
-        
