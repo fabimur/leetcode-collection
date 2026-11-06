@@ -1,10 +1,13 @@
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        seen = defaultdict(int)
 
         for i, n in enumerate(nums):
-            compliment = target - n
-            if compliment in seen:
-                return [seen[compliment], i]
+            complement = target - n
+            if complement in seen:
+                return [seen[complement], i]
             seen[n] = i
-        
+
+        return []
+
+            
