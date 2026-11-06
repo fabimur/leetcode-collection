@@ -95,6 +95,7 @@ A collection of my resolved Leetcode problems.
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
+| [0554-brick-wall](https://github.com/FabiMur/leetcode-collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/FabiMur/leetcode-collection/tree/master/0643-maximum-average-subarray-i) |
@@ -174,6 +175,7 @@ A collection of my resolved Leetcode problems.
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0554-brick-wall](https://github.com/FabiMur/leetcode-collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
