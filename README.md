@@ -96,6 +96,7 @@ A collection of my resolved Leetcode problems.
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0454-4sum-ii) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/FabiMur/leetcode-collection/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/FabiMur/leetcode-collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
@@ -177,6 +178,7 @@ A collection of my resolved Leetcode problems.
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0454-4sum-ii) |
+| [0525-contiguous-array](https://github.com/FabiMur/leetcode-collection/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/FabiMur/leetcode-collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
@@ -235,6 +237,7 @@ A collection of my resolved Leetcode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/FabiMur/leetcode-collection/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/FabiMur/leetcode-collection/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/FabiMur/leetcode-collection/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/FabiMur/leetcode-collection/tree/master/0724-find-pivot-index) |
