@@ -1,6 +1,7 @@
 class Solution:
     def findMaxLength(self, nums: List[int]) -> int:
-        seen = {0: 0}      # prefijo -> primer left posible
+        seen = {}
+        seen[0] = 0
         prefix = 0
         res = 0
 
@@ -10,5 +11,5 @@ class Solution:
                 res = max(res, right - seen[prefix] + 1)
             else:
                 seen[prefix] = right + 1
-        
+
         return res
