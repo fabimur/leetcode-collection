@@ -57,6 +57,7 @@ A collection of my resolved Leetcode problems.
 | [0009-palindrome-number](https://github.com/FabiMur/leetcode-collection/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/FabiMur/leetcode-collection/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/FabiMur/leetcode-collection/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/FabiMur/leetcode-collection/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/FabiMur/leetcode-collection/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
@@ -93,6 +94,7 @@ A collection of my resolved Leetcode problems.
 | [0283-move-zeroes](https://github.com/FabiMur/leetcode-collection/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0454-4sum-ii) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
@@ -173,6 +175,7 @@ A collection of my resolved Leetcode problems.
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/FabiMur/leetcode-collection/tree/master/0424-longest-repeating-character-replacement) |
@@ -342,6 +345,7 @@ A collection of my resolved Leetcode problems.
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/FabiMur/leetcode-collection/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
 | [2043-simple-bank-system](https://github.com/FabiMur/leetcode-collection/tree/master/2043-simple-bank-system) |
@@ -414,4 +418,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
