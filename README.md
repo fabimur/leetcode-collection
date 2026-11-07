@@ -141,6 +141,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/FabiMur/leetcode-collection/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/FabiMur/leetcode-collection/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of my resolved Leetcode problems.
 | [0003-longest-substring-without-repeating-characters](https://github.com/FabiMur/leetcode-collection/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/FabiMur/leetcode-collection/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/FabiMur/leetcode-collection/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
@@ -345,6 +347,7 @@ A collection of my resolved Leetcode problems.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/FabiMur/leetcode-collection/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/FabiMur/leetcode-collection/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
@@ -422,4 +425,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/FabiMur/leetcode-collection/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
