@@ -221,6 +221,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0735-asteroid-collision](https://github.com/FabiMur/leetcode-collection/tree/master/0735-asteroid-collision) |
 ## Bracket Sequences
 |  |
@@ -367,6 +368,7 @@ A collection of my resolved Leetcode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
 ## Breadth-First Search
@@ -392,10 +394,12 @@ A collection of my resolved Leetcode problems.
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 ## Monotonic Stack
 |  |
