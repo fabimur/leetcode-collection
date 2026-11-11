@@ -374,6 +374,7 @@ A collection of my resolved Leetcode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
+| [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -400,12 +401,14 @@ A collection of my resolved Leetcode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -438,4 +441,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FabiMur/leetcode-collection/tree/master/0146-lru-cache) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
