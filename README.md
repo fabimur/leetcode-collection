@@ -377,6 +377,7 @@ A collection of my resolved Leetcode problems.
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -406,6 +407,7 @@ A collection of my resolved Leetcode problems.
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of my resolved Leetcode problems.
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -459,4 +462,12 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
