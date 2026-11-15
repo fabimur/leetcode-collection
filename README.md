@@ -6,6 +6,7 @@ A collection of my resolved Leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FabiMur/leetcode-collection/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/FabiMur/leetcode-collection/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
@@ -68,6 +69,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/FabiMur/leetcode-collection/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/FabiMur/leetcode-collection/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
@@ -133,6 +135,7 @@ A collection of my resolved Leetcode problems.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/FabiMur/leetcode-collection/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/FabiMur/leetcode-collection/tree/master/0860-lemonade-change) |
