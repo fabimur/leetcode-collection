@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        # Dutch National Flag algorithm (Dijkstra)
         left = 0
         mid = 0
         right = len(nums) - 1
