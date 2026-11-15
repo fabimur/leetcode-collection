@@ -22,6 +22,7 @@ A collection of my resolved Leetcode problems.
 | [0392-is-subsequence](https://github.com/FabiMur/leetcode-collection/tree/master/0392-is-subsequence) |
 | [0408-valid-word-abbreviation](https://github.com/FabiMur/leetcode-collection/tree/master/0408-valid-word-abbreviation) |
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
+| [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1768-merge-strings-alternately) |
@@ -111,6 +112,7 @@ A collection of my resolved Leetcode problems.
 | [0735-asteroid-collision](https://github.com/FabiMur/leetcode-collection/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/FabiMur/leetcode-collection/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
+| [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
@@ -139,6 +141,7 @@ A collection of my resolved Leetcode problems.
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/FabiMur/leetcode-collection/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/FabiMur/leetcode-collection/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/FabiMur/leetcode-collection/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Linked List
 |  |
@@ -164,6 +167,7 @@ A collection of my resolved Leetcode problems.
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FabiMur/leetcode-collection/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
+| [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -473,4 +477,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
