@@ -11,6 +11,7 @@ A collection of my resolved Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/FabiMur/leetcode-collection/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/FabiMur/leetcode-collection/tree/master/0125-valid-palindrome) |
@@ -81,6 +82,7 @@ A collection of my resolved Leetcode problems.
 | [0053-maximum-subarray](https://github.com/FabiMur/leetcode-collection/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/FabiMur/leetcode-collection/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -161,6 +163,7 @@ A collection of my resolved Leetcode problems.
 | [0015-3sum](https://github.com/FabiMur/leetcode-collection/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/FabiMur/leetcode-collection/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/FabiMur/leetcode-collection/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/FabiMur/leetcode-collection/tree/master/0217-contains-duplicate) |
@@ -375,6 +378,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/FabiMur/leetcode-collection/tree/master/0075-sort-colors) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -481,4 +485,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/FabiMur/leetcode-collection/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
