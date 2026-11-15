@@ -25,6 +25,7 @@ A collection of my resolved Leetcode problems.
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FabiMur/leetcode-collection/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/FabiMur/leetcode-collection/tree/master/1768-merge-strings-alternately) |
 | [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
@@ -125,6 +126,7 @@ A collection of my resolved Leetcode problems.
 | [1248-count-number-of-nice-subarrays](https://github.com/FabiMur/leetcode-collection/tree/master/1248-count-number-of-nice-subarrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/FabiMur/leetcode-collection/tree/master/1480-running-sum-of-1d-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FabiMur/leetcode-collection/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FabiMur/leetcode-collection/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -173,6 +175,7 @@ A collection of my resolved Leetcode problems.
 | [0881-boats-to-save-people](https://github.com/FabiMur/leetcode-collection/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/FabiMur/leetcode-collection/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FabiMur/leetcode-collection/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/FabiMur/leetcode-collection/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -317,6 +320,7 @@ A collection of my resolved Leetcode problems.
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/FabiMur/leetcode-collection/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/FabiMur/leetcode-collection/tree/master/1004-max-consecutive-ones-iii) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FabiMur/leetcode-collection/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/FabiMur/leetcode-collection/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/FabiMur/leetcode-collection/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Queue
