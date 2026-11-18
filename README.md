@@ -396,6 +396,7 @@ A collection of my resolved Leetcode problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -427,6 +428,7 @@ A collection of my resolved Leetcode problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of my resolved Leetcode problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -474,6 +477,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
