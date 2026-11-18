@@ -34,6 +34,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FabiMur/leetcode-collection/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/FabiMur/leetcode-collection/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/FabiMur/leetcode-collection/tree/master/0125-valid-palindrome) |
@@ -73,6 +74,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/FabiMur/leetcode-collection/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/FabiMur/leetcode-collection/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/FabiMur/leetcode-collection/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/FabiMur/leetcode-collection/tree/master/0027-remove-element) |
@@ -493,4 +495,8 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/FabiMur/leetcode-collection/tree/master/0075-sort-colors) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/FabiMur/leetcode-collection/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
