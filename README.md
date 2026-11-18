@@ -204,6 +204,7 @@ A collection of my resolved Leetcode problems.
 | [0554-brick-wall](https://github.com/FabiMur/leetcode-collection/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/FabiMur/leetcode-collection/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/FabiMur/leetcode-collection/tree/master/0567-permutation-in-string) |
+| [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0904-fruit-into-baskets](https://github.com/FabiMur/leetcode-collection/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0930-binary-subarrays-with-sum) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -396,6 +397,7 @@ A collection of my resolved Leetcode problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -428,6 +430,7 @@ A collection of my resolved Leetcode problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -440,6 +443,7 @@ A collection of my resolved Leetcode problems.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Monotonic Stack
 |  |
