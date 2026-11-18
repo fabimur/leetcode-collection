@@ -254,6 +254,7 @@ A collection of my resolved Leetcode problems.
 | [0042-trapping-rain-water](https://github.com/FabiMur/leetcode-collection/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/FabiMur/leetcode-collection/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FabiMur/leetcode-collection/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/FabiMur/leetcode-collection/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0410-split-array-largest-sum) |
@@ -394,6 +395,7 @@ A collection of my resolved Leetcode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
@@ -430,6 +432,7 @@ A collection of my resolved Leetcode problems.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
@@ -444,6 +447,7 @@ A collection of my resolved Leetcode problems.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
@@ -485,6 +489,7 @@ A collection of my resolved Leetcode problems.
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Binary Lifting
