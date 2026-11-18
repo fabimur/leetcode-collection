@@ -3,8 +3,8 @@ class Solution:
         first = strs[0]
 
         for i, c in enumerate(first):
-            for word in strs[1:]:
-                if i >= len(word) or word[i] != c:
+            for w in strs:
+                if i >= len(w) or w[i] != c:
                     return first[:i]
 
         return first
