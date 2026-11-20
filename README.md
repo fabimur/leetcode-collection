@@ -143,6 +143,7 @@ A collection of my resolved Leetcode problems.
 | [2215-find-the-difference-of-two-arrays](https://github.com/FabiMur/leetcode-collection/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/FabiMur/leetcode-collection/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2352-equal-row-and-column-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/2352-equal-row-and-column-pairs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of my resolved Leetcode problems.
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
 | [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
 | [2352-equal-row-and-column-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/2352-equal-row-and-column-pairs) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of my resolved Leetcode problems.
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,11 +427,13 @@ A collection of my resolved Leetcode problems.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/FabiMur/leetcode-collection/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
 | ------- |
