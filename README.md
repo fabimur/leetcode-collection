@@ -399,6 +399,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0079-word-search](https://github.com/FabiMur/leetcode-collection/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -439,6 +440,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
@@ -457,6 +459,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
@@ -542,4 +545,8 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0079-word-search](https://github.com/FabiMur/leetcode-collection/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0113-path-sum-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
