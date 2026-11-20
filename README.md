@@ -404,6 +404,7 @@ A collection of my resolved Leetcode problems.
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of my resolved Leetcode problems.
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of my resolved Leetcode problems.
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of my resolved Leetcode problems.
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
