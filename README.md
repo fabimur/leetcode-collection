@@ -409,6 +409,7 @@ A collection of my resolved Leetcode problems.
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
@@ -450,6 +451,7 @@ A collection of my resolved Leetcode problems.
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
@@ -469,6 +471,7 @@ A collection of my resolved Leetcode problems.
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
@@ -549,4 +552,5 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0098-validate-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
