@@ -40,6 +40,7 @@ A collection of my resolved Leetcode problems.
 | [0125-valid-palindrome](https://github.com/FabiMur/leetcode-collection/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/FabiMur/leetcode-collection/tree/master/0389-find-the-difference) |
@@ -372,6 +373,7 @@ A collection of my resolved Leetcode problems.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FabiMur/leetcode-collection/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/FabiMur/leetcode-collection/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/FabiMur/leetcode-collection/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/FabiMur/leetcode-collection/tree/master/1396-design-underground-system) |
@@ -401,6 +403,7 @@ A collection of my resolved Leetcode problems.
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
@@ -412,6 +415,7 @@ A collection of my resolved Leetcode problems.
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
@@ -439,6 +443,7 @@ A collection of my resolved Leetcode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
@@ -456,6 +461,7 @@ A collection of my resolved Leetcode problems.
 | [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/FabiMur/leetcode-collection/tree/master/0652-find-duplicate-subtrees) |
