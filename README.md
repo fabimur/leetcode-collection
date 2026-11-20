@@ -37,6 +37,7 @@ A collection of my resolved Leetcode problems.
 | [0014-longest-common-prefix](https://github.com/FabiMur/leetcode-collection/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/FabiMur/leetcode-collection/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/FabiMur/leetcode-collection/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/FabiMur/leetcode-collection/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/FabiMur/leetcode-collection/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/FabiMur/leetcode-collection/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/FabiMur/leetcode-collection/tree/master/0242-valid-anagram) |
@@ -87,6 +88,7 @@ A collection of my resolved Leetcode problems.
 | [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/FabiMur/leetcode-collection/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/FabiMur/leetcode-collection/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/FabiMur/leetcode-collection/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/FabiMur/leetcode-collection/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -341,6 +343,7 @@ A collection of my resolved Leetcode problems.
 | ------- |
 | [0048-rotate-image](https://github.com/FabiMur/leetcode-collection/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/FabiMur/leetcode-collection/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/FabiMur/leetcode-collection/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
@@ -394,6 +397,7 @@ A collection of my resolved Leetcode problems.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/FabiMur/leetcode-collection/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0113-path-sum-ii) |
@@ -536,5 +540,6 @@ A collection of my resolved Leetcode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/FabiMur/leetcode-collection/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
