@@ -159,6 +159,7 @@ A collection of my resolved Leetcode problems.
 | [0002-add-two-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/FabiMur/leetcode-collection/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/FabiMur/leetcode-collection/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
@@ -407,6 +408,7 @@ A collection of my resolved Leetcode problems.
 | [0112-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
@@ -426,6 +428,7 @@ A collection of my resolved Leetcode problems.
 | [0100-same-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/FabiMur/leetcode-collection/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -458,6 +461,7 @@ A collection of my resolved Leetcode problems.
 | [0112-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -480,6 +484,7 @@ A collection of my resolved Leetcode problems.
 | [0112-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/FabiMur/leetcode-collection/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/FabiMur/leetcode-collection/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
