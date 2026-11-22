@@ -413,6 +413,7 @@ A collection of my resolved Leetcode problems.
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -431,6 +432,7 @@ A collection of my resolved Leetcode problems.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/FabiMur/leetcode-collection/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/FabiMur/leetcode-collection/tree/master/0322-coin-change) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -464,6 +466,7 @@ A collection of my resolved Leetcode problems.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -487,6 +490,7 @@ A collection of my resolved Leetcode problems.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/FabiMur/leetcode-collection/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/FabiMur/leetcode-collection/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/FabiMur/leetcode-collection/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0501-find-mode-in-binary-search-tree) |
