@@ -1,34 +1,26 @@
 class Solution:
-    def dfs(self, grid: List[List[str]], x, y) -> None:
-        if x < 0 or y < 0 or x >= len(grid[0]) or y >= len(grid):
-            return
-
-        if grid[y][x] == "0":
-            return
-
-        grid[y][x] = "0"
-
-        self.dfs(grid, x-1, y)
-        self.dfs(grid, x+1, y)
-        self.dfs(grid, x, y-1)
-        self.dfs(grid, x, y+1)
-
-
-
     def numIslands(self, grid: List[List[str]]) -> int:
-        result = 0
+        rows, cols = len(grid), len(grid[0])
 
-        for y in range(len(grid)):
-            for x in range(len(grid[0])):
-                if grid[y][x] == "1":
-                    result += 1
-                    self.dfs(grid, x, y)
+        def dfs(row: int, col: int) -> None:
+            if row < 0 or col < 0 or row >= rows or col >= cols:
+                return
 
-        return result
+            if grid[row][col] == "0":
+                return
 
+            grid[row][col] = "0"
 
+            dfs(row, col + 1)
+            dfs(row + 1, col)
+            dfs(row, col - 1)
+            dfs(row - 1, col)
 
+        num_islands = 0
+        for row in range(rows):
+            for col in range(cols):
+                if grid[row][col] == "1":
+                    dfs(row, col)
+                    num_islands += 1
 
-
-        
-        
+        return num_islands
