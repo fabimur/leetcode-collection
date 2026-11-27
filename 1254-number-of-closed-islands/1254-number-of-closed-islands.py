@@ -1,54 +1,31 @@
 class Solution:
     def closedIsland(self, grid: list[list[int]]) -> int:
-        rows = len(grid)
-        cols = len(grid[0])
-        num_enclosed = 0
+        rows, cols = len(grid), len(grid[0])
 
-
-        def mark_safe(row: int, col: int) -> None:
-            if row < 0 or col < 0 or row >= rows or col >= cols:
+        def flood(r: int, c: int) -> None:
+            if r < 0 or c < 0 or r >= rows or c >= cols:
                 return
-            
-            if grid[row][col] != 0:
+            if grid[r][c] != 0:   # agua o ya visitada
                 return
-            
-            grid[row][col] = 2
+            grid[r][c] = 1        # marcar como visitada
+            flood(r, c + 1)
+            flood(r + 1, c)
+            flood(r, c - 1)
+            flood(r - 1, c)
 
-            mark_safe(row, col + 1)
-            mark_safe(row + 1, col)
-            mark_safe(row, col - 1)
-            mark_safe(row - 1, col)
+        # Eliminar la tierra conectada al borde
+        for r in range(rows):
+            flood(r, 0)
+            flood(r, cols - 1)
+        for c in range(cols):
+            flood(0, c)
+            flood(rows - 1, c)
 
-        
-
-        def dfs(row:int, col:int) -> None:
-            if row < 0 or col < 0 or row >= rows or col >= cols:
-                return
-            
-            if grid[row][col] != 0:
-                return
-
-            grid[row][col] = 1
-
-            dfs(row, col + 1)
-            dfs(row + 1, col)
-            dfs(row, col - 1)
-            dfs(row - 1, col)
-
-
-        for row in range(rows):
-            mark_safe(row, 0)
-            mark_safe(row, cols-1)
-        
-        for col in range(cols):
-            mark_safe(0, col)
-            mark_safe(rows-1, col)
-
-        for row in range(rows):
-            for col in range(cols):
-                if grid[row][col] == 0:
-                    dfs(row, col)
-                    num_enclosed += 1
-
-        return num_enclosed
-        
+        # Contar las islas que quedan
+        count = 0
+        for r in range(rows):
+            for c in range(cols):
+                if grid[r][c] == 0:
+                    flood(r, c)
+                    count += 1
+        return count
