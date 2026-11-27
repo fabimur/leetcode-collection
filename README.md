@@ -133,6 +133,7 @@ A collection of my resolved Leetcode problems.
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/FabiMur/leetcode-collection/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1207-unique-number-of-occurrences](https://github.com/FabiMur/leetcode-collection/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/FabiMur/leetcode-collection/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/FabiMur/leetcode-collection/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/FabiMur/leetcode-collection/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/FabiMur/leetcode-collection/tree/master/1480-running-sum-of-1d-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/FabiMur/leetcode-collection/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -357,6 +358,7 @@ A collection of my resolved Leetcode problems.
 | [0695-max-area-of-island](https://github.com/FabiMur/leetcode-collection/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/FabiMur/leetcode-collection/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/FabiMur/leetcode-collection/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/FabiMur/leetcode-collection/tree/master/1254-number-of-closed-islands) |
 | [1861-rotating-the-box](https://github.com/FabiMur/leetcode-collection/tree/master/1861-rotating-the-box) |
 | [2352-equal-row-and-column-pairs](https://github.com/FabiMur/leetcode-collection/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -434,6 +436,7 @@ A collection of my resolved Leetcode problems.
 | [0695-max-area-of-island](https://github.com/FabiMur/leetcode-collection/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/FabiMur/leetcode-collection/tree/master/0733-flood-fill) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/FabiMur/leetcode-collection/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -454,6 +457,7 @@ A collection of my resolved Leetcode problems.
 | [0417-pacific-atlantic-water-flow](https://github.com/FabiMur/leetcode-collection/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/FabiMur/leetcode-collection/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/FabiMur/leetcode-collection/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/FabiMur/leetcode-collection/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/FabiMur/leetcode-collection/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -463,6 +467,7 @@ A collection of my resolved Leetcode problems.
 | [0130-surrounded-regions](https://github.com/FabiMur/leetcode-collection/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/FabiMur/leetcode-collection/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/FabiMur/leetcode-collection/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/FabiMur/leetcode-collection/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/FabiMur/leetcode-collection/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Knapsack Problem
 |  |
